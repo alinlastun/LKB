@@ -35,7 +35,7 @@
         </switch>
         <switch>
             <case
-                latin:languageSwitchKeyEnabled="true"
+                latin:languageSwitchKeyEnabled="false"
             >
                 <Key
                     latin:keyStyle="languageSwitchKeyStyle"

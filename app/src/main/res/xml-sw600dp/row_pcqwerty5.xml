@@ -29,7 +29,7 @@
             latin:keyboardLayout="@xml/key_settings" />
         <switch>
             <case
-                latin:languageSwitchKeyEnabled="true"
+                latin:languageSwitchKeyEnabled="false"
             >
                 <Key
                     latin:keyStyle="languageSwitchKeyStyle"
